@@ -9,7 +9,6 @@ import pickupRoute from './routes/pickupRoute.js';
 import citizenRoute from './routes/citizenRoute.js';
 
 const app = express();
-//middleware for parsing request body
 app.use(express.json());
 app.use(
     cors({
@@ -27,9 +26,9 @@ app.use(
       resave: false,
       saveUninitialized: true,
       cookie: {
-        httpOnly: true, // Ensures cookie is only accessible by the server
-        secure: process.env.NODE_ENV === 'production', // Use HTTPS in production
-        maxAge: 7200000, // 2 hour session expiration
+        httpOnly: true, 
+        secure: process.env.NODE_ENV === 'production', 
+        maxAge: 7200000, 
       },
     })
 );
