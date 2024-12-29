@@ -20,7 +20,7 @@ router.post('/report', async(req, res)=>{
           wardName: area,
           citizen: name,
           description,
-          image: req.file ? req.file.path : null, // Save the file path if an image is uploaded
+          image: req.file ? req.file.path : null, 
         });
     
         await newReport.save();
