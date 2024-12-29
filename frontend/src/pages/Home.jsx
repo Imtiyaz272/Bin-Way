@@ -6,7 +6,7 @@ import { FaArrowRight } from "react-icons/fa";
 
 const Home = () => {
   const [loading, setLoading] = useState(false);
-  const location = useLocation(); // Get current route
+  const location = useLocation();
 
   return (
     <div className="flex flex-col min-h-screen">
@@ -15,7 +15,6 @@ const Home = () => {
       ) : (
         <>
           <Header />
-          {/* Main Content */}
           <main className="flex flex-1 justify-center items-center bg-gray-50 bg-[url('/src/assets/smartBin4.jpeg')] bg-cover bg-center min-h-screen" >
           <div className=" absolute top-36 left-10 text-center bg-white bg-opacity-80 p-6 rounded-md shadow-lg">
               <h1 className="text-2xl font-bold text-gray-700 mb-4">
