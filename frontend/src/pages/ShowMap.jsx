@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import React, { useEffect } from "react";
 import { MapContainer, TileLayer, Marker, Popup, useMap } from "react-leaflet";
 import L from "leaflet";
@@ -13,7 +12,6 @@ const ShowMap = () => {
   const routeData = state?.routeData;
 
 
-  // Ensure `routeData` is available
   if (!routeData) {
     return (
       <div className="flex items-center justify-center h-screen">
