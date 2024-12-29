@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Spinner from '../components/Spinner';
 import { Link, Outlet } from 'react-router-dom';
 import AdminHeader from './AdminHeader';
-import { FaExclamationCircle, FaTruck, FaMapMarkedAlt } from 'react-icons/fa'; // Import icons
+import { FaExclamationCircle, FaTruck, FaMapMarkedAlt } from 'react-icons/fa'; 
 
 const AdminHome = () => {
   const [loading, setLoading] = useState(false);
@@ -15,7 +15,6 @@ const AdminHome = () => {
         <>
           <AdminHeader />
           <div className="flex flex-1">
-            {/* Sidebar */}
             <nav className="w-1/4 bg-purple-200 p-4">
               <ul className="space-y-4">
                 <li>
@@ -23,7 +22,7 @@ const AdminHome = () => {
                     to="/adminHome/issues-reported"
                     className="flex items-center gap-2 p-4 bg-purple-100 rounded-lg text-center hover:bg-purple-300 transition"
                   >
-                    <FaExclamationCircle className="text-xl text-gray-900" /> {/* Issue icon */}
+                    <FaExclamationCircle className="text-xl text-gray-900" /> 
                     Issues reported by user
                   </Link>
                 </li>
@@ -32,7 +31,7 @@ const AdminHome = () => {
                     to="/adminHome/binStatus/1"
                     className="flex items-center gap-2 p-4 bg-purple-100 rounded-lg text-center hover:bg-purple-300 transition"
                   >
-                    <FaTruck className="text-xl text-gray-900" /> {/* Waste pickup icon */}
+                    <FaTruck className="text-xl text-gray-900" />
                     Status of the waste pickup
                   </Link>
                 </li>
@@ -41,7 +40,7 @@ const AdminHome = () => {
                     to="/adminHome/wardData"
                     className="flex items-center gap-2 p-4 bg-purple-100 rounded-lg text-center hover:bg-purple-300 transition"
                   >
-                    <FaMapMarkedAlt className="text-xl text-gray-900" /> {/* Ward data icon */}
+                    <FaMapMarkedAlt className="text-xl text-gray-900" /> 
                     Ward data
                   </Link>
                 </li>
