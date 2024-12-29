@@ -6,7 +6,7 @@ import Spinner from "../components/Spinner";
 const IssuesReported = () => {
   const [reports, setReports] = useState([]);
   const [loading, setLoading] = useState(false);
-  const [selectedReport, setSelectedReport] = useState(null); // For the modal
+  const [selectedReport, setSelectedReport] = useState(null); 
   const { enqueueSnackbar } = useSnackbar();
 
   useEffect(() => {
