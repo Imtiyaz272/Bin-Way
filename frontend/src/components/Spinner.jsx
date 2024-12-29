@@ -8,4 +8,3 @@ const Spinner = () => {
 
 export default Spinner;
 
-//To show the loading state
