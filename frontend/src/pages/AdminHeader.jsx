@@ -2,7 +2,7 @@ import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
 
 const AdminHeader = () => {
-  const location = useLocation(); // Get current route
+  const location = useLocation(); 
 
   return (
     <header className="flex items-center justify-between p-4 border-b-4 bg-gray-900 text-white">
