@@ -42,7 +42,6 @@ const BinStatus = () => {
     <div className="min-h-screen bg-gray-50 p-6 flex flex-col items-center">
       <h1 className="text-3xl font-bold text-gray-900 mb-6">Bin Status</h1>
 
-      {/* Search Section */}
       <div className="mb-6 flex items-center bg-purple-200 text-white rounded-full px-4 py-2 shadow-md">
         <FaSearch className="text-gray-900 mr-2" />
         <input
@@ -60,7 +59,6 @@ const BinStatus = () => {
         </button>
       </div>
 
-      {/* Bin List */}
       {bins.length > 0 ? (
         <div>
         <div className="flex flex-wrap gap-6">
@@ -89,7 +87,6 @@ const BinStatus = () => {
         <p className="text-gray-600">No bins found.</p>
       )}
 
-      {/* Picked-Up Bin IDs Display */}
       {pickedUpBins.length > 0 && (
         <div className="mt-4 bg-gray-100 p-4 rounded-lg shadow-md">
           <h2 className="text-lg font-bold text-gray-800">Picked Up Bin IDs:</h2>
