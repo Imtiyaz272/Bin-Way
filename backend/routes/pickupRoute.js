@@ -33,7 +33,6 @@ router.post('/getRoute', async (req, res) => {
       selectedBins.push(...additionalBins);
     }
    console.log(office);
-    // Send selected bins and office location to frontend
     res.json({ selectedBins, office });
   } catch (error) {
     console.error('Error fetching route:', error);
