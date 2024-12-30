@@ -111,8 +111,7 @@ To use Bin-Way, follow these steps:
 
 3. **Pickup Man/Driver Dashboard:**
 
-   Driver can enter the ward name assigned to him for the collection of bins. The bins will be selected giving priority to bins with fill level above 50% and if truck capacity is remained then dynamic programming is applied to select the remaining bins so that the collection of waste will be maximised in single trip. Using leaflet api, an optimized route will be provided to collect the bins.
-
+   Driver can enter the ward name assigned to him for the collection of bins. The bins are prioritized based on their fill level, with preference given to those above 50%. If the truck still has remaining capacity, dynamic programming is used to select additional bins to maximize waste collection in a single trip. An optimized route for collecting the bins is then generated using the Leaflet API.
    ![B12](https://github.com/user-attachments/assets/951fc003-2256-4ea1-8817-601b866c1165)
 
    ![B13](https://github.com/user-attachments/assets/b5a24588-fa76-456b-abd4-fdad2a25a8a1)
