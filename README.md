@@ -75,38 +75,38 @@ To use Bin-Way, follow these steps:
 
 2. **Admin Dashboard:**
 
-   * A) Login as an admin *
+    * Login as an admin 
    
        ![B4](https://github.com/user-attachments/assets/05e14f7b-41e9-4e45-a114-e201a41a4240)
        
        ![B5](https://github.com/user-attachments/assets/08b1f1f6-c152-4093-bac6-ca314e889ebc)
 
-   B) Check the issues reported by user
+    * Check the issues reported by user
    
        ![B6](https://github.com/user-attachments/assets/a507282e-e11b-4fa4-aae7-892675e38fff)
-   
-       After the issue has been resolved, it can be removed by marking it as resolved 
+
+    * After the issue has been resolved, it can be removed by marking it as resolved 
    
        ![B7](https://github.com/user-attachments/assets/6c31fd08-e6a8-4714-a5b7-d4298d30c019)
    
        ![B8](https://github.com/user-attachments/assets/66072778-de3f-46b1-8dec-466ac48c762e)
 
-C) Check the status of the bins whether they have been picked up, what are their levels and monitor the collection progress 
+    * Check the status of the bins whether they have been picked up, what are their levels and monitor the collection progress 
+   
+       ![B8-9](https://github.com/user-attachments/assets/5ffb8efb-1bbe-4631-a7e4-09ddba1fab92)
+   
+    * Enter the ward name whose status you have to check :
+       
+       ![B9](https://github.com/user-attachments/assets/405800b5-75bb-4255-bb20-accaf32c7cc3)
+   
+       ![B18](https://github.com/user-attachments/assets/64a05917-73dc-4104-a3f5-1df682ed3283)
 
-    ![B8-9](https://github.com/user-attachments/assets/5ffb8efb-1bbe-4631-a7e4-09ddba1fab92)
 
-    Enter the ward name whose status you have to check :
-    
-    ![B9](https://github.com/user-attachments/assets/405800b5-75bb-4255-bb20-accaf32c7cc3)
+    * The ward data is available to admin (ward names with their ids so that it will be easier for them )
 
-    ![B18](https://github.com/user-attachments/assets/64a05917-73dc-4104-a3f5-1df682ed3283)
-
-
-D) The ward data is available to admin (ward names with their ids so that it will be easier for them )
-
-    ![B10](https://github.com/user-attachments/assets/1be0a1f9-d8fe-4e1c-9d55-30449ea98049)
-
-    ![B11](https://github.com/user-attachments/assets/926ab472-968d-46bc-bd0c-ed2c027f4e89)
+       ![B10](https://github.com/user-attachments/assets/1be0a1f9-d8fe-4e1c-9d55-30449ea98049)
+   
+       ![B11](https://github.com/user-attachments/assets/926ab472-968d-46bc-bd0c-ed2c027f4e89)
 
 
 3. **Pickup Man/Driver Dashboard:**
