@@ -1,6 +1,6 @@
 # Bin Way
 
-Bin Way is an intelligent waste management platform that streamlines the waste collection process using real-time monitoring and route optimization. It enables efficient management of waste bins by notifying authorities when bins are full and optimizing collection routes to save time and resources. Built with advanced IoT and AI technologies, this platform aims to enhance sustainability and operational efficiency, creating a cleaner and smarter environment for communities.
+Bin Way is waste management platform that streamlines the waste collection process using real-time monitoring and route optimization. It enables efficient management of waste bins by notifying authorities when bins are full and optimizing collection routes to save time and resources. Built with MERN stack, this platform aims to enhance operational efficiency, creating a cleaner and smarter environment for communities.
 
 ![B1](https://github.com/user-attachments/assets/9f3a4adf-6d15-43dd-9c9f-f14201cc1739)
 
