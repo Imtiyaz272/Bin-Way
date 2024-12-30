@@ -24,7 +24,7 @@ Bin Way is built using the following technologies:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/username/bin-way.git
+   git clone https://github.com/Imtiyaz272/bin-way.git
    ```
 
 2. **Navigate to the project folder**
