@@ -75,21 +75,21 @@ To use Bin-Way, follow these steps:
 
 2. **Admin Dashboard:**
 
-A) Login as an admin
+   * A) Login as an admin *
+   
+       ![B4](https://github.com/user-attachments/assets/05e14f7b-41e9-4e45-a114-e201a41a4240)
+       
+       ![B5](https://github.com/user-attachments/assets/08b1f1f6-c152-4093-bac6-ca314e889ebc)
 
-    ![B4](https://github.com/user-attachments/assets/05e14f7b-41e9-4e45-a114-e201a41a4240)
-
-    ![B5](https://github.com/user-attachments/assets/08b1f1f6-c152-4093-bac6-ca314e889ebc)
-
-B) Check the issues reported by user
-
-    ![B6](https://github.com/user-attachments/assets/a507282e-e11b-4fa4-aae7-892675e38fff)
-
-    After the issue has been resolved, it can be removed by marking it as resolved 
-
-    ![B7](https://github.com/user-attachments/assets/6c31fd08-e6a8-4714-a5b7-d4298d30c019)
-
-    ![B8](https://github.com/user-attachments/assets/66072778-de3f-46b1-8dec-466ac48c762e)
+   B) Check the issues reported by user
+   
+       ![B6](https://github.com/user-attachments/assets/a507282e-e11b-4fa4-aae7-892675e38fff)
+   
+       After the issue has been resolved, it can be removed by marking it as resolved 
+   
+       ![B7](https://github.com/user-attachments/assets/6c31fd08-e6a8-4714-a5b7-d4298d30c019)
+   
+       ![B8](https://github.com/user-attachments/assets/66072778-de3f-46b1-8dec-466ac48c762e)
 
 C) Check the status of the bins whether they have been picked up, what are their levels and monitor the collection progress 
 
